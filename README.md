@@ -1,0 +1,2 @@
+# gosu-std
+go gosu
